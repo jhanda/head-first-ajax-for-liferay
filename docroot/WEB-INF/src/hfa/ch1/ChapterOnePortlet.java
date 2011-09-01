@@ -1,4 +1,4 @@
-package com.liferay.training.hfa.ch1;
+package hfa.ch1;
 
 import com.liferay.portal.kernel.log.Log;
 import com.liferay.portal.kernel.log.LogFactoryUtil;
